@@ -1,0 +1,53 @@
+.content {
+     
+     
+  margin-top: 300px;
+  margin-bottom: 400px;
+  margin-right: 150px;
+  margin-left: 80px;
+
+    }
+    .banklist {
+      font-size: 16px;
+      font-weight: bold;
+      font-family: inherit;
+    }
+    .textstyle {
+      color: rgb(85, 109, 124);
+    }
+    .centerposition {
+      padding: 20px;
+      margin: 200px;
+      background: linear-gradient(to bottom, white, SteelBlue);
+      
+  }
+    .button {
+      padding: 16px;
+      margin: 4px 0;
+      border-radius: 4px;
+      border: none;
+      background: rgb(85, 109, 124);
+      color: rgb(255, 255, 255);
+      width: 20%;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-family: inherit;
+      cursor: pointer;
+      font-size: 16px;
+      letter-spacing: 0;
+    }
+    .header {
+      padding: 5px;
+      margin: 0;
+      text-align: center;
+      background-color: SteelBlue;
+      font-size: 20px;
+      color: rgb(255, 255, 255)
+    }
+    .bodystyle {
+      margin: 0;
+      font-weight: bold;
+      font-family: inherit;
+      font-size: 20px;
+      color: rgb(27, 27, 27);
+    }
